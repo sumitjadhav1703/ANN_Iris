@@ -11,9 +11,7 @@ A compact and interactive Streamlit dashboard for predicting Iris flower species
 
 ## Application Preview
 
-> **Note:** Screenshot placeholder. Add a screenshot of the running Streamlit app here.
->
-> `![Application Preview](docs/screenshot.png)`
+![Application Preview](docs/screenshot.png)
 
 ---
 
